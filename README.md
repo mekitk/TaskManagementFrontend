@@ -80,5 +80,5 @@ utils.ts # Yardımcı fonksiyonlar
 
 ---
 
-
+![Dashboard Görseli](./public/taskflowdashboard.png)
 
