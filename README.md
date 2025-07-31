@@ -79,7 +79,6 @@ utils.ts # Yardımcı fonksiyonlar
 3. Kullanıcı yeni görev ekler → form bileşeni `POST` isteği yapar → Redux slice güncellenir → UI anlık olarak güncellenir.
 
 ---
-<img width="1913" height="1026" alt="taskflowdashboard" src="https://github.com/user-attachments/assets/5454bbb4-bc77-49e4-b356-040bb8114526" />
 
 
 
