@@ -80,5 +80,6 @@ utils.ts # Yardımcı fonksiyonlar
 
 ---
 
-![Dashboard Görseli](./public/taskflowdashboard.png)
+![TaskFlow Projects](https://raw.githubusercontent.com/mekitk/TaskManagementFrontend/main/public/taskflowprojects.png)
+
 
