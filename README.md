@@ -8,10 +8,6 @@ Bu proje, [TaskFlow](https://github.com/mekitk/TaskManagementFrontend) görev y�
 - TypeScript
 - Redux Toolkit
 - Tailwind CSS
-- ShadCN UI
-- Axios
-- Zustand (eğer varsa)
-- React Hook Form
 
 ## 📦 Kurulum
 
@@ -81,5 +77,6 @@ utils.ts # Yardımcı fonksiyonlar
 ---
 
 ![TaskFlow Projects](https://raw.githubusercontent.com/mekitk/TaskManagementFrontend/main/public/taskflowprojects.png)
-
+https://github.com/mekitk/TaskManagementFrontend/blob/main/public/taskflowdashboard.png
+https://github.com/mekitk/TaskManagementFrontend/blob/main/public/taskflowtask.png
 
